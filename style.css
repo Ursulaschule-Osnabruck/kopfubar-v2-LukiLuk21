@@ -1,3 +1,31 @@
 body { 
-    background-color: lightblue;
+    background-color: white;
+}
+
+
+ #elexiere {
+     float: right;
+     width: 280px;
+ }
+
+
+h1{ 
+
+    color:green ;
+
+}
+
+
+
+h2{
+    color:green;
+}
+
+h3{
+    color: red;
+}
+
+body{
+    width: 1024px;
+
 }
